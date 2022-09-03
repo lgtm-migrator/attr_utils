@@ -60,8 +60,8 @@ attr_utils
 		:workflow: mypy
 		:alt: mypy status
 
-	.. |requires| image:: https://dependency-dash.herokuapp.com/github/domdfcoding/attr_utils/badge.svg
-		:target: https://dependency-dash.herokuapp.com/github/domdfcoding/attr_utils/
+	.. |requires| image:: https://dependency-dash.repo-helper.uk/github/domdfcoding/attr_utils/badge.svg
+		:target: https://dependency-dash.repo-helper.uk/github/domdfcoding/attr_utils/
 		:alt: Requirements Status
 
 	.. |coveralls| coveralls-shield::

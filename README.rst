@@ -58,8 +58,8 @@ attr_utils
 	:target: https://github.com/domdfcoding/attr_utils/actions?query=workflow%3A%22mypy%22
 	:alt: mypy status
 
-.. |requires| image:: https://dependency-dash.herokuapp.com/github/domdfcoding/attr_utils/badge.svg
-	:target: https://dependency-dash.herokuapp.com/github/domdfcoding/attr_utils/
+.. |requires| image:: https://dependency-dash.repo-helper.uk/github/domdfcoding/attr_utils/badge.svg
+	:target: https://dependency-dash.repo-helper.uk/github/domdfcoding/attr_utils/
 	:alt: Requirements Status
 
 .. |coveralls| image:: https://img.shields.io/coveralls/github/domdfcoding/attr_utils/master?logo=coveralls
